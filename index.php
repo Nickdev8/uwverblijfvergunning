@@ -9,10 +9,8 @@
 <body>
   <!-- HERO SECTIE -->
   <header class="hero">
-    <div class="top-bar">
-     <a href="mailto:info@uwverblijfsvergunning.nl" class="free-intake">GRATIS INTAKEGESPREK</a>
-      <a href="#" class="contact-btn">CONTACT</a>
-    </div>
+    
+    <?php include 'header.php'; ?>
 
     <div class="overlay"></div>
     <div class="hero-content">
@@ -37,7 +35,7 @@
       <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Judge_gavel_%28PSF%29.png" alt="Gavel">
       <div class="buttons">
         <a href="#">Verblijfsvergunning regular</a>
-        <a href="#">EU procedure</a>
+        <a href="info/EUprocedure.php">EU procedure</a>
         <a href="#">VISUM kort verblijf</a>
         <a href="#">Nederlanderschap</a>
         <a href="#">Intrekking verblijfsvergunning</a>

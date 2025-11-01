@@ -1,0 +1,4 @@
+ Verblijf bij minderjarige Nederlands kind (Chavez-Vilchez)
+Op 10 mei 2017 heeft het Hof van Justitie in het arrest (uitspraak) Chavez-Vilchez vastgesteld dat een ouder die niet de nationaliteit heeft van een EU-land (een derdelander) die ouder is van een minderjarig Nederlands kind onder voorwaarden aanspraak kan maken op een verblijfsrecht in de Europese Unie (EU).
+In het Chavez-Vilchez-arrest werd het belang van het kind vooropgesteld: het kind heeft recht op omgang met beide ouders. Als aan de ‘derdeland-ouder’ geen verblijfsrecht wordt toegekend, komt het erop neer dat het kind wordt gedwongen het grondgebied van de Unie te verlaten. Als er een sterke afhankelijkheidsrelatie is tussen de derdelander en het Nederlandse kind, heeft de derdelander recht op een afgeleid verblijfsrecht.
+De IND heeft de regels in juni 2018 aangescherpt. Door de IND worden nu zeer hoge eisen gehanteerd ten aanzien van de zorg- en opvoedingstaken van de derdelander ouder.

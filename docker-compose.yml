@@ -1,0 +1,12 @@
+version: "3.8"
+
+services:
+  web:
+    container_name: uwverblijfvergunning_web
+    build: .
+    image: uwverblijfvergunning_web
+    ports:
+      - "8080:80"
+    volumes:
+      - ./:/var/www/html
+    restart: unless-stopped
