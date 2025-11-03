@@ -1,9 +1,29 @@
+/* Filosofie sectie als flexbox */
+.filosofie-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 2rem;
+  margin: 2rem 0 1rem 0;
+}
+.filosofie-col {
+  flex: 1 1 250px;
+  min-width: 220px;
+  max-width: 400px;
+}
+.filosofie {
+  font-size: 2rem;
+  color: #000000;
+  margin-bottom: 1rem;
+  text-align: center;
+}
  /* Algemene stijl */
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #222;
+  background-color: #f0eaea;
+  color: #000000;
 }
 
 /* Hero sectie */
@@ -89,7 +109,6 @@ body {
 }
 
 
-
 .contact-btn {
   position: absolute;
   top: 2rem;
@@ -106,6 +125,7 @@ body {
 .contact-btn:hover {
   background: #333;
 }
+
 
 /* Hoofdsectie */
 .main-section {
@@ -132,11 +152,21 @@ body {
   margin-bottom: 14rem;
   margin-top: 10rem;
 }
+.Filosofie   {
+padding: 5rem 2rem;
+  text-align: center;
+  margin-bottom: 5rem;
+  padding: 5rem 2rem;
+      justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
 
 .buttons a {
   background: #000000;
   padding: 1rem 1rem;
-  border-radius: 3rem;
+  border-radius: 1rem;
   text-decoration: none;
   color: rgb(255, 255, 255);
   font-weight: bold;

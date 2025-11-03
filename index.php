@@ -27,15 +27,25 @@
       <a href="#">MVV - aanvraag familielid</a>
       <a href="#">Arbeid</a>
     </nav>
+
     <div>
-      <h1 class="Filosofie">ONZE FILOSOFIE</h1>
-      <p>Bij UwVerblijfsvergunning.nl zoeken wij altijd een oplossing voor uw persoonlijke situatie. Er is geen standaard werkwijze binnen het vreemdelingenrecht. Dit is altijd maatwerk. Dat betekent dat voor iedereen een ander route is om een verblijfsvergunning te kunnen bemachtigen.
-ONZE TARIEVEN
-Wij bieden onze diensten aan voor vaste tarieven. Dit is tegenover particulieren transparant en staat u nooit voor financiële verrassingen. Er komen voor u geen bijkomende kosten dan het afgesproken tarief.</p>
-    </div>
+
   </header>
 
   <!-- HOOFDSECTIE -->
+
+
+    <div class="filosofie-row">
+      <div class="filosofie-col">
+        <h1 class="filosofie">ONZE FILOSOFIE</h1>
+        <p>Bij UwVerblijfsvergunning.nl zoeken wij altijd een oplossing voor uw persoonlijke situatie. Er is geen standaard werkwijze binnen het vreemdelingenrecht. Dit is altijd maatwerk. Dat betekent dat voor iedereen een ander route is om een verblijfsvergunning te kunnen bemachtigen.</p>
+      </div>
+      <div class="filosofie-col">
+        <h1 class="filosofie">ONZE TARIEVEN</h1>
+        <p>Wij bieden onze diensten aan voor vaste tarieven. Dit is tegenover particulieren transparant en staat u nooit voor financiële verrassingen. Er komen voor u geen bijkomende kosten dan het afgesproken tarief.</p>
+      </div>
+    </div>
+
   <section class="main-section">
     <div class="content-box">
       <img src="" alt="">
@@ -47,6 +57,8 @@ Wij bieden onze diensten aan voor vaste tarieven. Dit is tegenover particulieren
         <a href="#">Intrekking verblijfsvergunning</a>
         <a href="#">Over ons</a>
       </div>
+
+
     </div>
     <div class="contact-info">
       <p>📧 info@uwverblijfsvergunning.nl</p>
