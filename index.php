@@ -57,6 +57,21 @@
         <a href="#">Intrekking verblijfsvergunning</a>
         <a href="#">Over ons</a>
       </div>
+
+      <div class="quick-contact">
+        <h2>Snel Contact</h2>
+        <form action="send-contact.php" method="POST" class="contact-form">
+          <div class="form-group">
+            <label for="email">Uw e-mailadres:</label>
+            <input type="email" id="email" name="email" required placeholder="uw@email.nl">
+          </div>
+          <div class="form-group">
+            <label for="message">Uw vraag:</label>
+            <textarea id="message" name="message" required placeholder="Beschrijf uw situatie kort..."></textarea>
+          </div>
+          <button type="submit" class="submit-btn">Verstuur</button>
+        </form>
+      </div>
     </div>
     
     <div class="contact-info">
